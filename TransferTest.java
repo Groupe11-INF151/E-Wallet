@@ -1,3 +1,3 @@
 java
-public class Transfert est {
+public class TransferTest {
 }
