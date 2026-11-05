@@ -1,2 +1,2 @@
-public class taxcalculator {
+public class Taxcalculator {
 }
