@@ -1,3 +1,3 @@
-public class privacymenu{
+public class PrivacyMenu{
 
 }
